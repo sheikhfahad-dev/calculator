@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+    <table border="1" style="border-collapse:collapse">
+        <tr>
+            <td>Pipilika</td>
+            <td>Bangladesg.jpg</td>
+        </tr>
+        <tr>
+            <td colspan="2">NCTB</td>
+            </tr>
+            <tr>
+                <td>H <sup>2</sup>O</td>
+                <td>m <sup>-m</sup></td>
+            </tr>
+
+    </table>
+</body>
+</html>
